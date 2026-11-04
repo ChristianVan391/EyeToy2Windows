@@ -1,8 +1,19 @@
-# EyeToy Webcam for Windows 11
+# EyeToy2Windows
 
 Turns a PS2 EyeToy (VID 054C / PID 0155) into a standard webcam that works with Discord, Zoom, OBS, etc.
 
 This is a pure Python solution using WinUSB. No custom kernel drivers required.
+
+## Photos
+Images:
+
+<img src="https://raw.githubusercontent.com/ChristianVan391/EyeToy2Windows/refs/heads/main/Images/image%20(1).JPG" width="600">
+<img src="https://raw.githubusercontent.com/ChristianVan391/EyeToy2Windows/refs/heads/main/Images/image%20(2).JPG" width="600">
+From EyeToy:
+
+<img src="https://raw.githubusercontent.com/ChristianVan391/EyeToy2Windows/refs/heads/main/Images/Photo-1.jpeg" width="600">
+<img src="https://raw.githubusercontent.com/ChristianVan391/EyeToy2Windows/refs/heads/main/Images/Photo-1%20(2).jpeg" width="600">
+<img src="https://raw.githubusercontent.com/ChristianVan391/EyeToy2Windows/refs/heads/main/Images/Photo-1%20(1).jpeg" width="600">
 
 ## Setup
 
@@ -16,7 +27,7 @@ Windows needs OBS to create a Virtual Camera.
 
 **2. Unlock virtual cameras in Windows 11**
 
-Windows 11 blocks virtual cameras by default (in most cases).
+Windows 11 blocks virtual cameras by default (in most cases use this but you might not have to).
 
 - Open Command Prompt as Administrator.
 - Run this:
