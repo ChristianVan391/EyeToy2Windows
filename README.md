@@ -53,7 +53,3 @@ Open your app and change the source to "OBS Virtual Camera" and for audio use so
 Windows Defender or Chrome might flag the `.exe` as suspicious. This can happen because of PyInstaller packaging Python into a single file.
 
 If it gets blocked, investigate the detection and verify the executable's source before deciding whether to allow it.
-
-## Note
-
-I have only tested this with the Namtai ones. I am unsure if Logitech ones will work.
