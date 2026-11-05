@@ -18,7 +18,7 @@ From EyeToy:
 
 ## Usage
 
-1. Double-click `EyeToy_Webcam.exe`.
+1. Double-click `EyeToy2Windows v0.2.0.exe` (if you got it from the release. if not open 'EyeToy2Windows v0.2.0.py').
 2. A terminal and a preview window will open.
 
 **You can close the preview window or unplug the camera to stop the stream.**
